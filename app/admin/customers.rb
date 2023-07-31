@@ -1,3 +1,4 @@
+# app/admin/customer.rb
 ActiveAdmin.register Customer do
   permit_params :name, :address, :email
 
