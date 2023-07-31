@@ -1,4 +1,4 @@
-# app/admin/admin.rb
+# app/admin/orders.rb
 ActiveAdmin.register Order do
   filter :id
   filter :customer
